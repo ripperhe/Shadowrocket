@@ -7,6 +7,32 @@ bypass-tun = 10.0.0.0/8,100.64.0.0/10,127.0.0.0/8,169.254.0.0/16,172.16.0.0/12,1
 dns-server =
 
 [Rule]
+DOMAIN-SUFFIX,objccn.io,Proxy
+DOMAIN-SUFFIX,medium.com,Proxy
+DOMAIN-SUFFIX,github.com,Proxy
+DOMAIN-SUFFIX,github.io,Proxy
+DOMAIN-SUFFIX,githubusercontent.com,Proxy
+DOMAIN-SUFFIX,github.global.ssl.fastly.net,Proxy
+DOMAIN-SUFFIX,api.github.com,Proxy
+DOMAIN-SUFFIX,imgur.comg,Proxy
+DOMAIN-SUFFIX,ripperhe.com,Proxy
+DOMAIN-SUFFIX,gitbooks.io,Proxy
+DOMAIN-SUFFIX,stackoverflow.com,Proxy
+DOMAIN-SUFFIX,cocoapods.org,Proxy
+DOMAIN-SUFFIX,substrate.office.com,Proxy
+DOMAIN-SUFFIX,mobile.pipe.aria.microsoft.com,Proxy
+DOMAIN-SUFFIX,gmail.com,Proxy
+DOMAIN-SUFFIX,imap.gmail.com,Proxy
+DOMAIN-SUFFIX,onenote.com,Proxy
+DOMAIN-SUFFIX,login.live.com,Proxy
+DOMAIN-SUFFIX,opensource.guide,Proxy
+DOMAIN-SUFFIX,producthunt.com,Proxy
+DOMAIN-SUFFIX,fastlane.tools,Proxy
+DOMAIN-SUFFIX,dart.dev,Proxy
+DOMAIN-SUFFIX,sketch.com,Proxy
+DOMAIN-SUFFIX,sketch.cloud,Proxy
+DOMAIN-SUFFIX,mozilla.org,Proxy
+
 DOMAIN-SUFFIX,google.com,Proxy
 DOMAIN-SUFFIX,youtube.com,Proxy
 DOMAIN-SUFFIX,facebook.com,Proxy
